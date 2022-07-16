@@ -1,0 +1,104 @@
+.success {
+    width: 20vw;
+    height: 2%;
+    margin: 15px;
+    padding: 20px;
+    right: 0;
+    bottom: 0;
+    border-radius: 12px;
+    background-color: #76c893;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    z-index: 2;
+}
+
+.error {
+    width: 20vw;
+    height: 2%;
+    margin: 15px;
+    padding: 20px;
+    right: 0;
+    bottom: 0;
+    border-radius: 12px;
+    background-color: #9e2a2b;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    z-index: 2;
+}
+
+.warning {
+    width: 20vw;
+    height: 2%;
+    margin: 15px;
+    padding: 20px;
+    right: 0;
+    bottom: 0;
+    border-radius: 12px;
+    background-color: #f48c06;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    z-index: 2;
+}
+
+.svgChecked {
+    height: 200%;
+}
+
+/* .modalContainer .title {
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.titleCloseBtn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.titleCloseBtn button {
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.modalContainer .body {
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.modalContainer .footer {
+    flex: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalContainer .footer button {
+    width: 150px;
+    height: 45px;
+    margin: 10px;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#cancelBtn {
+    background-color: crimson;
+} */

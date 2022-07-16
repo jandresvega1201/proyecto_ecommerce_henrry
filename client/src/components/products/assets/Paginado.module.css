@@ -1,0 +1,41 @@
+.container {
+    margin-bottom: 20px;
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.previous {
+    font-size: large;
+    height: 30px;
+    margin: 5px;
+    background-color: var(--navbar-bg-color);
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.next {
+    font-size: large;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: var(--navbar-bg-color);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.number {
+    font-size: large;
+    font-weight: bold;
+    height: 30px;
+    margin: 5px;
+    background-color: var(--navbar-bg-color);
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
